@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 
 namespace CleanArchitecture.Infrastructure.Reposatory
 {
-    internal interface IGenericRepository<T> where T : BaseModel
+    public interface IGenericRepository<T> where T : BaseModel
     {
         Task Add(T entity);
         Task AddRangeAsync(List<T> entities);
