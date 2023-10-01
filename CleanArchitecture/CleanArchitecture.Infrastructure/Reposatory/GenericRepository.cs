@@ -1,4 +1,4 @@
-﻿using CleanArchitecture.Domin.Models;
+﻿using CleanArchitecture.Domin.Features.Base.Abstraction;
 using CleanArchitecture.Domin.Specifications;
 using CleanArchitecture.Infrastructure.Context;
 using CleanArchitecture.Infrastructure.Specifications;

@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Domin.Models
+﻿namespace CleanArchitecture.Domin.Features.Shared
 {
     public class BaseModel
     {
